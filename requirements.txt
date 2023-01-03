@@ -1,1 +1,10 @@
 
+matplotlib
+numpy
+os
+pillow
+tensorflow
+pathlib
+tensorflow 
+keras
+opencv-python
